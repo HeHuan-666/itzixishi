@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itzixishi-admin/itzixishi-admin.iml" filepath="$PROJECT_DIR$/itzixishi-admin/itzixishi-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itzixishi-admin/spring-cloud-config/spring-cloud-config.iml" filepath="$PROJECT_DIR$/itzixishi-admin/spring-cloud-config/spring-cloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itzixishi-admin/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/itzixishi-admin/spring-cloud-eureka/spring-cloud-eureka.iml" />
+    </modules>
+  </component>
+</project>
