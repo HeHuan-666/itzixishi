@@ -1,0 +1,15 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: spring-cloud-config-server
+  cloud:
+    cloud:
+      config:
+        server:
+          git:
+            uri: https://github.com/lsd2016/itzixishi/tree/master/itzixishi-admin/
+            search-paths: config-repo
+            username:                                             # git仓库的账号
+            password:
+        label: master

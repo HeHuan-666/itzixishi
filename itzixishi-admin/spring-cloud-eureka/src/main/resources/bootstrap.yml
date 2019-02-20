@@ -4,6 +4,6 @@ spring:
       name: microcloud-config-eureka #定义要读取的资源文件的名称
       profile: dev #定义profile的名称
       label: master #定义配置文件所在的分支
-      uri: http://config-7101.com:7101 #获取的服务地址
-      username: wendy #连接的用户名
-      password: wendy #连接的密码
+      uri: https://github.com/lsd2016/itzixishi/tree/master/itzixishi-admin/config-file #获取的服务地址
+      username: 1093437804@qq.com #连接的用户名
+      password: lsd19860713 #连接的密码
